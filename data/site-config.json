@@ -1,0 +1,24 @@
+{
+  "_说明": "本站点自定义配置文件：修改后刷新浏览器即可生效（无需重启服务）。",
+  "siteTitle": "甜甜",
+  "safeDomains": "localhost,127.0.0.1,vxmiyou.com",
+  "navbar": {
+    "title": "甜甜",
+    "buttons": [
+      { "text": "返回首页", "url": "/", "target": "_self" }
+    ]
+  },
+  "footer": {
+    "copyrightText": "甜甜",
+    "copyrightUrl": "/",
+    "poweredByText": "傲行互娱",
+    "poweredByUrl": "/",
+    "beian": {
+      "icpText": "",
+      "icpUrl": "https://beian.miit.gov.cn/",
+      "gonganText": "",
+      "gonganUrl": "https://beian.mps.gov.cn/",
+      "gonganIcon": ""
+    }
+  }
+}
