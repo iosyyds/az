@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "type": "dir",
+      "name": "全能签教程",
+      "path": "全能签教程",
+      "order": 999,
+      "children": [
+        {
+          "type": "file",
+          "name": "安装教程",
+          "path": "全能签教程/安装教程.md",
+          "kind": "md",
+          "order": 999,
+          "redirect": null
+        }
+      ]
+    }
+  ]
+}
